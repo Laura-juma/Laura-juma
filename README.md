@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/Laura-juma/LABURL)
-  - [Hello World!](https://github.com/Laura-juma/LABURL)
+  - [Active Directory Home Lab](https://github.com/Laura-juma/ActiveDirectoryLab/tree/main)
+  - [Hello World!](https://github.com/Laura-juma/ActiveDirectoryLab/tree/main)
 
 <h2>📄Certifications</h2>
 
