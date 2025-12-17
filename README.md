@@ -1,6 +1,6 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=200&section=header&text=Hi%20I'm%20Laura%20Juma&fontSize=44&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=200&section=header&text=Hi%20I'm%20Laura%20Neema&fontSize=44&fontColor=FFFFFF&animation=fadeIn" />
 </p>
 
 <p align="center">
