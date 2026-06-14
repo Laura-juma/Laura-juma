@@ -55,11 +55,11 @@ Currently, I’m building backend projects while strengthening my understanding 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Laura-juma&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-juma&layout=compact&hide_border=true" />
 </p>
 
 ---
