@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <em>Backend Developer in Training · ALX Software Engineering</em><br/>
+  <em>Backend Developer· ALX Software Engineering</em><br/>
   <strong>Python · Django · REST APIs</strong>
 </p>
 
 <br/>
 
 <!-- ================= ABOUT ================= -->
-## 👋 About Me
+##  About Me
 
 I’m a Computer Science student and backend developer focused on building web applications and APIs using Python and Django.
 
@@ -22,7 +22,7 @@ Currently, I’m building backend projects while strengthening my understanding 
 ---
 
 <!-- ================= FOCUS ================= -->
-## 🌱 Current Focus
+##  Current Focus
 
 - Python and Django backend development  
 - Building REST APIs  
@@ -33,7 +33,7 @@ Currently, I’m building backend projects while strengthening my understanding 
 ---
 
 <!-- ================= TECH ================= -->
-## 🧩 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github&theme=dark" />
@@ -42,7 +42,7 @@ Currently, I’m building backend projects while strengthening my understanding 
 ---
 
 <!-- ================= LEARNING ================= -->
-## 📌 What I’m Working On
+##  What I’m Working On
 
 - Backend development projects using Django  
 - REST API design and implementation  
@@ -52,7 +52,7 @@ Currently, I’m building backend projects while strengthening my understanding 
 ---
 
 <!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true" />
@@ -65,7 +65,7 @@ Currently, I’m building backend projects while strengthening my understanding 
 ---
 
 <!-- ================= CONNECT ================= -->
-## 📫 Connect With Me
+##  Connect With Me
 
 - Email: laurajuma52@gmail.com  
 - LinkedIn: www.linkedin.com/in/laura-neema-345809368
