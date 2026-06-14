@@ -1,135 +1,77 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=200&section=header&text=Hi%20I'm%20Laura%20Neema&fontSize=44&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=200&section=header&text=Hi%20I'm%20Laura%20Neema&fontSize=44&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
-  <em>Backend Engineer in Training · ALX Backend Program</em><br/>
-  <strong>Making lives easier with code ✨</strong>
+  <em>Backend Developer in Training · ALX Software Engineering</em><br/>
+  <strong>Python · Django · REST APIs</strong>
 </p>
 
 <br/>
 
 <!-- ================= ABOUT ================= -->
-<table align="center">
-<tr>
-<td width="60%">
+## 👋 About Me
 
-### 👋 Hey, I’m Laura
+I’m a Computer Science student and backend developer focused on building web applications and APIs using Python and Django.
 
-I’m a **backend software engineering learner** in the **ALX Backend Program**, currently exploring the magic behind code that actually works.  
+I enjoy turning ideas into functional systems and improving my skills through hands-on development and structured learning.
 
-I love seeing small ideas turn into working systems. Right now, I’m deep into **Python** and backend fundamentals, with a vision to **create software that quietly makes life easier**.  
+Currently, I’m building backend projects while strengthening my understanding of APIs, databases, and software design.
 
-</td>
+---
 
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="260"/>
-</td>
-</tr>
-</table>
+<!-- ================= FOCUS ================= -->
+## 🌱 Current Focus
 
-<br/><br/>
+- Python and Django backend development  
+- Building REST APIs  
+- Working with MySQL databases  
+- Improving system design and problem-solving skills  
+- Developing real-world backend projects  
 
-<!-- ================= CURRENT ================= -->
-## 🌱 What I’m Up To Right Now
-
-At this stage, I’m:
-- 🐍 Getting comfortable with Python quirks  
-- 🧠 Training my brain to think like a backend engineer  
-- ⚙️ Learning how backend pieces fit together  
-- 💜 Growing steadily, intentionally, and confidently  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="420"/>
-</p>
-
-<br/>
+---
 
 <!-- ================= TECH ================= -->
-## 🧩 Tech I’m Working With
+## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github&theme=dark" />
 </p>
 
-<p align="center">
-  <em>Foundations first. Growth always. 💜</em>
-</p>
-
-<br/>
+---
 
 <!-- ================= LEARNING ================= -->
-## 🌸 Learning in Public
+## 📌 What I’m Working On
 
-I don’t have big flashy projects yet — and that’s completely okay.  
+- Backend development projects using Django  
+- REST API design and implementation  
+- Database design with MySQL  
+- Improving clean code and project structure  
 
-This GitHub is my:
-- practice ground  
-- experimentation zone  
-- progress journal  
+---
 
-✨ Projects will come. Skills first.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="520"/>
-</p>
-
-<br/>
-
-<!-- ================= REPO LINK ================= -->
-## 📂 Explore My Repositories
-
-Check out all my current and future projects here:  
-
-<p align="center">
-  <a href="https://github.com/Laura-juma?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Repositories-7F3ACE?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- ================= STATS ================= -->
+<!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laura-juma&show_icons=true&hide_border=true&title_color=9B5DE5&icon_color=C77DFF&text_color=2D1B4E&bg_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-juma&layout=compact&hide_border=true&title_color=9B5DE5&text_color=2D1B4E&bg_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
 </p>
 
-<br/>
+---
 
 <!-- ================= CONNECT ================= -->
-## ☕ Let’s Connect
+## 📫 Connect With Me
 
-If you like:
-- curious learners  
-- expressive but serious engineers  
-- people who enjoy building things the right way  
+- Email: laurajuma52@gmail.com  
+- LinkedIn: www.linkedin.com/in/laura-neema-345809368
 
-We’ll probably vibe 💜
+---
 
 <p align="center">
-  <a href="mailto:laurajuma52@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7F3ACE?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/laura-neema-345809368/">
-    <img src="https://img.shields.io/badge/LinkedIn-9B5DE5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <strong>learning • growing • becoming 💜</strong>
-</p>
-
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
+  <strong>Backend development · Python · Django</strong>
 </p>
