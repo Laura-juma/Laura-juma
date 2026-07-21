@@ -4,50 +4,52 @@
 </p>
 
 <p align="center">
-  <em>Backend Developer· ALX Software Engineering</em><br/>
-  <strong>Python · Django · REST APIs</strong>
+  <em>Computer Science Student · Backend Developer · Aspiring Data Engineer</em><br/>
+  <strong>Python · Django · REST APIs · SQL · Power BI · Data Analytics</strong>
 </p>
 
 <br/>
 
 <!-- ================= ABOUT ================= -->
-##  About Me
+## About Me
 
-I’m a Computer Science student and backend developer focused on building web applications and APIs using Python and Django.
+I’m a Computer Science student passionate about building software systems and working with data to solve real-world problems.
 
-I enjoy turning ideas into functional systems and improving my skills through hands-on development and structured learning.
+I have a strong interest in backend development and data engineering, with experience building web applications and REST APIs using Python and Django. I enjoy designing databases, working with SQL, and exploring how data can be transformed into meaningful insights.
 
-Currently, I’m building backend projects while strengthening my understanding of APIs, databases, and software design.
+Currently, I’m strengthening my skills in backend development, data analytics, and modern data engineering concepts through hands-on projects and continuous learning.
 
 ---
 
 <!-- ================= FOCUS ================= -->
-##  Current Focus
+## Current Focus
 
 - Python and Django backend development  
-- Building REST APIs  
-- Working with MySQL databases  
-- Improving system design and problem-solving skills  
-- Developing real-world backend projects  
+- Building REST APIs using Django REST Framework  
+- Database design and SQL development  
+- Data analysis using Python, SQL, Excel, and Power BI  
+- Improving software engineering and problem-solving skills  
+- Exploring data engineering concepts and technologies  
 
 ---
 
 <!-- ================= TECH ================= -->
-##  Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,git,github,html,css,js&theme=dark" />
 </p>
 
 ---
 
 <!-- ================= LEARNING ================= -->
-##  What I’m Working On
+## What I’m Working On
 
-- Backend development projects using Django  
-- REST API design and implementation  
-- Database design with MySQL  
-- Improving clean code and project structure  
+- Backend development projects using Django and Django REST Framework  
+- Designing and building APIs  
+- Working with relational databases and SQL  
+- Data cleaning, analysis, and visualization  
+- Learning data engineering foundations and workflows  
 
 ---
 
@@ -65,7 +67,7 @@ Currently, I’m building backend projects while strengthening my understanding 
 ---
 
 <!-- ================= CONNECT ================= -->
-##  Connect With Me
+## Connect With Me
 
 - Email: laurajuma52@gmail.com  
 - LinkedIn: www.linkedin.com/in/laura-neema-345809368
@@ -73,5 +75,5 @@ Currently, I’m building backend projects while strengthening my understanding 
 ---
 
 <p align="center">
-  <strong>Backend development · Python · Django</strong>
+  <strong>Backend Development · Data Analytics · Aspiring Data Engineer</strong>
 </p>
