@@ -53,19 +53,6 @@ Currently, I’m strengthening my skills in backend development, data analytics,
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laura-juma&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-juma&layout=compact&hide_border=true" />
-</p>
-
----
-
 <!-- ================= CONNECT ================= -->
 ## Connect With Me
 
