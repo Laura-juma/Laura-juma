@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>Computer Science Student · Backend Developer · Aspiring Data Engineer</em><br/>
-  <strong>Python · Django · REST APIs · SQL · Power BI · Data Analytics</strong>
+  <strong>Python · Django · REST APIs · SQL · </strong>
 </p>
 
 <br/>
@@ -27,7 +27,6 @@ Currently, I’m strengthening my skills in backend development, data analytics,
 - Python and Django backend development  
 - Building REST APIs using Django REST Framework  
 - Database design and SQL development  
-- Data analysis using Python, SQL, Excel, and Power BI  
 - Improving software engineering and problem-solving skills  
 - Exploring data engineering concepts and technologies  
 
@@ -48,7 +47,6 @@ Currently, I’m strengthening my skills in backend development, data analytics,
 - Backend development projects using Django and Django REST Framework  
 - Designing and building APIs  
 - Working with relational databases and SQL  
-- Data cleaning, analysis, and visualization  
 - Learning data engineering foundations and workflows  
 
 ---
@@ -62,5 +60,5 @@ Currently, I’m strengthening my skills in backend development, data analytics,
 ---
 
 <p align="center">
-  <strong>Backend Development · Data Analytics · Aspiring Data Engineer</strong>
+  <strong>Backend Development · Aspiring Data Engineer</strong>
 </p>
